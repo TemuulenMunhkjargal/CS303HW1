@@ -1,3 +1,2 @@
 # CS303HW1
-Assignment 1
-Hello
+Written in Visual Studio 2019

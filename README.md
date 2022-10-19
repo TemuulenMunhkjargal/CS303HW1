@@ -1,13 +1,13 @@
-# CS303HW1
+# CS303HW2
 Written in Visual Studio 2019 in C++
 
 Run ConsoleApplication1.sln in Visual Studio to open the project
 
-![output1](https://user-images.githubusercontent.com/90886151/191418351-17c450ba-6377-4012-ae9d-83c3bc2d6a96.png)
+![comment](https://user-images.githubusercontent.com/90886151/196621121-1fa13e4b-0b55-4279-8d71-709fd00a36c1.png)
 
-![output2](https://user-images.githubusercontent.com/90886151/191418354-4849923d-c43b-496f-9127-336e287efdab.png)
+![code1](https://user-images.githubusercontent.com/90886151/196621136-202de4c2-85be-48cf-9789-08d27cfa7050.png)
 
-![output3](https://user-images.githubusercontent.com/90886151/191418361-64ca179f-d41d-4fa5-98c6-d88ea38c9083.png)
+![output1](https://user-images.githubusercontent.com/90886151/196621140-53c7c264-c14d-4521-81cf-6a5217693eed.png)
 
-![output4](https://user-images.githubusercontent.com/90886151/191418369-ba327f4c-4e30-4bd7-89fc-4a702b55d21c.png)
+![error](https://user-images.githubusercontent.com/90886151/196621294-8e2ca474-ad06-4a9f-a060-494ecafa1b37.png)
 
